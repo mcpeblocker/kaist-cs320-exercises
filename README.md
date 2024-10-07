@@ -9,7 +9,8 @@
 - [Textbook exercises](./textbook/)
 - Practice exercises
   - Exercise 1 - [Scala Tutorial](./scala-tutorial/)
-  - Exercise 2 - [Identifiers](./identifiers/) (incomplete)
-  - Exercise 3 - [MVAE](./mvae/) (incomplete)
-  - Exercise 4 - [F1VAE](./f1vae/) (incomplete)
-  - Exercise 5 - [MRFVAE](./mrfvae/) (incomplete)
+  - Exercise 2 - [Identifiers](./identifiers/) (unsolved)
+  - Exercise 3 - [MVAE](./mvae/) (unsolved)
+  - Exercise 4 - [F1VAE](./f1vae/) (unsolved)
+  - Exercise 5 - [MRFVAE](./mrfvae/) (unsolved)
+  - Exercise 6 - [SRBFAE](./srbfae) (unsolved)
