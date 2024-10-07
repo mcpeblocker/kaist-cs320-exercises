@@ -14,3 +14,5 @@
   - Exercise 4 - [F1VAE](./f1vae/) (unsolved)
   - Exercise 5 - [MRFVAE](./mrfvae/) (unsolved)
   - Exercise 6 - [SRBFAE](./srbfae) (unsolved)
+  - Exercise 7 - [TFAE](./tfae) (unsolved)
+  - Exercise 8 - [TpolyFAE](./tpolyfae) (unsolved)
