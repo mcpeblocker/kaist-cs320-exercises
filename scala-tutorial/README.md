@@ -1,4 +1,5 @@
 **The following were copied and adapted from the [main assignment repository](https://github.com/kaist-plrg-cs320/assignment-docs/blob/master/ex1/README.md)**
+
 # Exercise #1: Scala Tutorial
 
 **Read the [common instructions](https://github.com/kaist-plrg-cs320/assignment-docs) first if you have not read them.**

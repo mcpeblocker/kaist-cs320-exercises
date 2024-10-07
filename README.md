@@ -9,4 +9,4 @@
 - [Textbook exercises](./textbook/)
 - Practice exercises
   - Exercise 1 - [Scala Tutorial](./scala-tutorial/)
-  - Exercise 2 - [Identifiers](./identifiers/)
+  - Exercise 2 - [Identifiers](./identifiers/) (incomplete)
