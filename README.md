@@ -11,3 +11,4 @@
   - Exercise 1 - [Scala Tutorial](./scala-tutorial/)
   - Exercise 2 - [Identifiers](./identifiers/) (incomplete)
   - Exercise 3 - [MVAE](./mvae/) (incomplete)
+  - Exercise 4 - [F1VAE](./f1vae/) (incomplete)

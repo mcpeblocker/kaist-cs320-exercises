@@ -1,4 +1,4 @@
-**The following were copied and adapted from the [main assignment repository](https://github.com/kaist-plrg-cs320/assignment-docs/blob/master/ex2/README.md)**
+**The following were copied and adapted from the [main assignment repository](https://github.com/kaist-plrg-cs320/assignment-docs/blob/master/ex3/README.md)**
 
 # Exercise #3: MVAE
 
