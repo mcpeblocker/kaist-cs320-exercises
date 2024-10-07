@@ -26,5 +26,5 @@ The course textbook is available at:
 ### Exercises
 
 - Chapter 3:
-  - [Implementation](/src/main/scala/Chapter3.scala)
-  - [Test cases](/src/test/scala/Chapter3.scala)
+  - [Implementation](./src/main/scala/Chapter3.scala)
+  - [Test cases](./src/test/scala/Chapter3.scala)

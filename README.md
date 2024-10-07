@@ -6,7 +6,7 @@
 
 ## Exercises
 
-- [Textbook exercises](/textbook/)
+- [Textbook exercises](./textbook/)
 - Practice exercises
-  - Exercise 1 - [Scala Tutorial](/scala-tutorial/)
-  - Exercise 2 - [Identifiers](/identifiers/)
+  - Exercise 1 - [Scala Tutorial](./scala-tutorial/)
+  - Exercise 2 - [Identifiers](./identifiers/)
