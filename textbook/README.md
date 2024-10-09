@@ -28,3 +28,6 @@ The course textbook is available at:
 - Chapter 3:
   - [Implementation](./src/main/scala/Chapter3.scala)
   - [Test cases](./src/test/scala/Chapter3.scala)
+- Chapter 4:
+  - [Implementation](./src/main/scala/Chapter4.scala)
+  - [Test cases](./src/test/scala/Chapter4.scala)

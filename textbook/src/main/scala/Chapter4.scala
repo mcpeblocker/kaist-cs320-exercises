@@ -4,20 +4,20 @@
 
 /**
   * Exercise 4.1
-  * Implement a function incBy that takes 
-  * a list of integers and an integer as arguments and 
-  * increases every element of the list by the given integer. 
-  * Use the map method. 
+  * Implement a function incBy that takes
+  * a list of integers and an integer as arguments and
+  * increases every element of the list by the given integer.
+  * Use the map method.
   */
 def incBy(l: List[Int], n: Int): List[Int] =
     l.map(_ + n)
 
 /**
-  * Exercise 4.2 
-  * Implement a function gt that takes 
-  * a list of integers and an integer as arguments and 
-  * filters elements less than or equal to the given 
-  * integer out from the list. 
+  * Exercise 4.2
+  * Implement a function gt that takes
+  * a list of integers and an integer as arguments and
+  * filters elements less than or equal to the given
+  * integer out from the list.
   * Use the filter method.
   */
 def gt(l: List[Int], n: Int): List[Int] =
@@ -25,10 +25,10 @@ def gt(l: List[Int], n: Int): List[Int] =
 
 /**
   * Exercise 4.3
-  * Implement a function append that takes 
-  * a list of integers and an integer as arguments and 
-  * returns a list obtained by appending the integer 
-  * at the end of the list. 
+  * Implement a function append that takes
+  * a list of integers and an integer as arguments and
+  * returns a list obtained by appending the integer
+  * at the end of the list.
   * Use the foldRight method.
   */
 def append(l: List[Int], n: Int): List[Int] =
@@ -37,7 +37,7 @@ def append(l: List[Int], n: Int): List[Int] =
 /**
   * Exercise 4.4
   * Implement a function reverse that takes
-  * a list of integers and returns a list 
+  * a list of integers and returns a list
   * obtained by reversing the order between the elements.
   * Use the foldLeft method.
   */
